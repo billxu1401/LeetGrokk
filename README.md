@@ -55,8 +55,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
 - [X] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
-- [ ] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+- [X] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
+- [X] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 - [ ] https://leetcode.com/problems/employee-free-time/
 
 ## Pattern: Cyclic Sort
