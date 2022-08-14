@@ -125,7 +125,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - Couldn't find Bitonic Array Maximum
 - Couldn't find Search Bitonic Array 
 - [X] https://leetcode.com/problems/search-in-rotated-sorted-array/ (Blind)
-- [ ] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
+- [X] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
 
 ## Pattern: Bitwise XOR
 - [X] https://leetcode.com/problems/single-number/
