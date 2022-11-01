@@ -138,7 +138,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - Couldn't find Kth Smallest Number
 - [ ] https://leetcode.com/problems/k-closest-points-to-origin/
 - [ ] https://leetcode.com/problems/minimum-cost-to-connect-sticks/
-- [ ] https://leetcode.com/problems/top-k-frequent-elements/ (Blind)
+- [X] https://leetcode.com/problems/top-k-frequent-elements/ (Blind)
 - [ ] https://leetcode.com/problems/sort-characters-by-frequency/
 - [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream/
 - [ ] https://leetcode.com/problems/find-k-closest-elements/
